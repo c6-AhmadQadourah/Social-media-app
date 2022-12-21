@@ -107,7 +107,6 @@ axios.post("http://localhost:5000/register",body)
           Register Now !
         </button></>
 
-
   )
 
 }
